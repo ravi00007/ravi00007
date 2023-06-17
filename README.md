@@ -35,14 +35,14 @@ You can click the Preview link to take a look at your changes.
 
 #### Application and Data:
 
-![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
 ![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
+![Fastify](http://img.shields.io/badge/-fasify-red?style=flat&logo=fastify&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Swagger](http://img.shields.io/badge/-Swagger-47A248?style=flat&logo=swagger&logoColor=white)
+![Elastic Search](http://img.shields.io/badge/-Elastic-white?style=flat&logo=elastic&logoColor=white)
+![Redis](http://img.shields.io/badge/-Redis-red?style=flat&logo=redis&logoColor=white)
+![Clean Architecture](http://img.shields.io/badge/-CleanArchitecture-47A248?style=flat&logo=cleanarchitecture&logoColor=white)
 
 #### QA & Testing
 
