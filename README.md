@@ -1,4 +1,4 @@
-# Hi, I'm Pramod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Ravi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
@@ -8,22 +8,22 @@
 
 Hi👋, 
 
-My name is Pramod and I'm a web developer based on Bangalore.
-I love playing around with ReactJS  and creating something that makes people smile 😊. 
+My name is Ravi and I'm a Backend Developer (Nodejs) based on Bangalore.
+Transforming ideas into reality, one line of code at a time - I am the Node.js magician behind the scenes 😊. 
 
-I enjoy turning complex problems into simple, beautiful and intuitive designs. When I'm not pushing pixels, you'll find me cooking 🍳, gardening 🧑‍🌾 or Walking in the park 🏞️.
+Embracing the power of Node.js, I orchestrate the symphony of data, APIs, and functionality, creating seamless user experiences, you'll find me cooking 🍳, gardening 🧑‍🌾 or Walking in the park 🏞️.
 
 <!---
-pramod8095/pramod8095 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+/ravi00007/ravi00007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 #GitHub stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pramod8095&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ravi00007&show_icons=true)
 
 ##Profile View Counter
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=pramod8095)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ravi00007)
 
 
 ## My Stack 💻
@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 #### QA & Testing
 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-e9554d?style=flat&logo=octopusdeploy&logoColor=white)
+
 
 #### Utilities:
 
@@ -65,6 +65,5 @@ You can click the Preview link to take a look at your changes.
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-[linkedin]: https://www.linkedin.com/in/pramod-k-300bb5a2/
-[twitter]: https://www.twitter.com/kpramod8095/
-[gmail]: mailto:kpramod8095@gmail.com
+[linkedin]: [https://www.linkedin.com/in/ravi-kumar-nonia-197baa160/]
+[gmail]: mailto:ravichouhan00007@gmail.com
