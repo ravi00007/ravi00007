@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 #### QA & Testing
 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-
+![Mocha](https://img.shields.io/badge/-Mocha-C21325?style=flat&logo=mocha&logoColor=white)
 
 #### Utilities:
 
@@ -58,8 +58,10 @@ You can click the Preview link to take a look at your changes.
 #### DevOps:
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-3178C6?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
-
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-3178C6?style=flat&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-181717?style=flat&logo=cicd&logoColor=white)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
