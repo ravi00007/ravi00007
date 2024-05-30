@@ -36,10 +36,17 @@ You can click the Preview link to take a look at your changes.
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 #### Application and Data:
+[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&logoColor=white)](https://angular.io/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Material Design](https://img.shields.io/badge/-Material_Design-757575?style=flat&logo=material-design&logoColor=white)](https://material.io/)
+[![Angular Material](https://img.shields.io/badge/-Angular_Material-007ACC?style=flat&logo=angular-material&logoColor=white)](https://material.angular.io/)
 
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
 ![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
 ![Fastify](http://img.shields.io/badge/-fasify-red?style=flat&logo=fastify&logoColor=white)
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)]
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Swagger](http://img.shields.io/badge/-Swagger-47A248?style=flat&logo=swagger&logoColor=white)
 ![Elastic Search](http://img.shields.io/badge/-Elastic-white?style=flat&logo=elastic&logoColor=white)
