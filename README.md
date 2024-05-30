@@ -50,8 +50,17 @@ You can click the Preview link to take a look at your changes.
 ![Prisma](https://img.shields.io/badge/-Prisma-blue?style=flat&logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-blue?style=flat&logo=typeorm&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
+![AWS SNS](https://img.shields.io/badge/-AWS_SNS-yellow?style=flat&logo=amazon-sns&logoColor=white)
+![AWS SES](https://img.shields.io/badge/-AWS_SES-yellow?style=flat&logo=amazon-ses&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-yellow?style=flat&logo=amazon-aws&logoColor=white)
+![AWS API Gateway](https://img.shields.io/badge/-AWS_API_Gateway-yellow?style=flat&logo=amazon-api-gateway&logoColor=white)
+![AWS Textract](https://img.shields.io/badge/-AWS_Textract-orange?style=flat&logo=amazon-aws&logoColor=white)
+![AWS Cognito](https://img.shields.io/badge/-AWS_Cognito-orange?style=flat&logo=amazon-cognito&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/-AWS_IAM-orange?style=flat&logo=amazon-aws&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/-AWS_CloudWatch-orange?style=flat&logo=amazon-cloudwatch&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-orange?style=flat&logo=amazon-dynamodb&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS_S3-orange?style=flat&logo=amazon-s3&logoColor=white)
 
-![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&logoColor=white)
 #### QA & Testing
 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
