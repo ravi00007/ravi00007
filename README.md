@@ -8,7 +8,7 @@
 
 Hi👋, 
 
-My name is Ravi and I'm a Backend Developer (Nodejs) based on Bangalore.
+My name is Ravi and I'm a Backend Developer (Nodejs) based on Delhi NCR.
 Transforming ideas into reality, one line of code at a time - I am the Node.js magician behind the scenes 😊. 
 
 Embracing the power of Node.js, I orchestrate the symphony of data, APIs, and functionality, creating seamless user experiences, you'll find me cooking 🍳, gardening 🧑‍🌾 or Walking in the park 🏞️.
