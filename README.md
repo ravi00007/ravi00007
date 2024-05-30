@@ -43,7 +43,13 @@ You can click the Preview link to take a look at your changes.
 ![Elastic Search](http://img.shields.io/badge/-Elastic-white?style=flat&logo=elastic&logoColor=white)
 ![Redis](http://img.shields.io/badge/-Redis-red?style=flat&logo=redis&logoColor=white)
 ![Clean Architecture](http://img.shields.io/badge/-CleanArchitecture-47A248?style=flat&logo=cleanarchitecture&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-red?style=flat&logo=openapi-initiative&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/-Oracle_DB-red?style=flat&logo=oracle&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-blue?style=flat&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-blue?style=flat&logo=typeorm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
 
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&logoColor=white)
 #### QA & Testing
 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
@@ -54,6 +60,11 @@ You can click the Preview link to take a look at your changes.
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Lens](https://img.shields.io/badge/-Lens-blue?style=flat&logo=lens&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-blue?style=flat&logo=jira&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat&logo=github&logoColor=white)
+
 
 #### DevOps:
 
