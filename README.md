@@ -60,6 +60,8 @@ You can click the Preview link to take a look at your changes.
 ![AWS CloudWatch](https://img.shields.io/badge/-AWS_CloudWatch-orange?style=flat&logo=amazon-cloudwatch&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-orange?style=flat&logo=amazon-dynamodb&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/-AWS_S3-orange?style=flat&logo=amazon-s3&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=firebase&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-orange?style=flat&logo=google-cloud&logoColor=white)
 
 #### QA & Testing
 
