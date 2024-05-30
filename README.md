@@ -1,7 +1,8 @@
 # Hi, I'm Ravi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](./linkedin.svg)](https://www.linkedin.com/in/ravi-kumar-nonia-197baa160/)
+[![Gmail](./gmail.svg)](mailto:your-email@gmail.com)
+
 
 
 <br>
