@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
 ![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
 ![Fastify](http://img.shields.io/badge/-fasify-red?style=flat&logo=fastify&logoColor=white)
-[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)]
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Swagger](http://img.shields.io/badge/-Swagger-47A248?style=flat&logo=swagger&logoColor=white)
 ![Elastic Search](http://img.shields.io/badge/-Elastic-white?style=flat&logo=elastic&logoColor=white)
