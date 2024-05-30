@@ -76,7 +76,7 @@ You can click the Preview link to take a look at your changes.
 ![Lens](https://img.shields.io/badge/-Lens-blue?style=flat&logo=lens&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat&logo=jira&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat&logo=github&logoColor=white)
+
 
 
 #### DevOps:
