@@ -9,9 +9,9 @@
 Hi👋, 
 
 My name is Ravi and I'm a Full Stack (MEAN) Developer based on Delhi NCR.
-Transforming ideas into reality, one line of code at a time - I am the Node.js magician behind the scenes 😊. 
+Transforming ideas into reality, one line of code at a time 😊. 
 
-Embracing the power of Node.js, I orchestrate the symphony of data, APIs, and functionality, creating seamless user experiences, you'll find me cooking 🍳, gardening 🧑‍🌾 or Walking in the park 🏞️.
+Embracing the power of JS, I orchestrate the symphony of data, APIs, and functionality, creating seamless user experiences, you'll find me cooking 🍳, gardening 🧑‍🌾 or Walking in the park 🏞️.
 
 <!---
 /ravi00007/ravi00007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
